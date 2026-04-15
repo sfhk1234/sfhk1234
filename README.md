@@ -5,10 +5,10 @@
 AWS EC2 환경에서 서버를 직접 구축하고 외부에서 접근 가능한 형태로 운영한 경험이 있습니다.
 DB를 구성하고 서버와 연결하여 API가 정상 동작하는 환경을 설정하고 테스트한 경험이 있습니다.
 
-## 포트폴리오 보기
+## Portfolio
 
-* [PDF 포트폴리오](./portfolio_yoon_taegu_final.pdf)
-* [웹 버전 포트폴리오](./index.html)
+- 🌐 웹 포트폴리오: https://sfhk1234.github.io/sfhk1234/
+- 📄 PDF 포트폴리오: ./portfolio_yoon_taegu_final.pdf
 
 ## 소개
 
