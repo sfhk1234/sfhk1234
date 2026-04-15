@@ -4,7 +4,7 @@
 
 ## 📄 포트폴리오
 👉 [PDF 보기](./portfolio_yoon_taegu_final.pdf)
-👉 [html 보기](./portfolio_yoon_taegu_final.html)
+👉 [html 보기](./index.html)
 ## 🔧 기술 스택
 - AWS EC2
 - FastAPI
